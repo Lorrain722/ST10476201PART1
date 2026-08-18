@@ -1,0 +1,397 @@
+Website Proposal for eKofini@ Proper Coffee Shop
+
+Organisation Name
+eKofini@Proper Coffee Shop
+Small business 
+Location
+Ekangala, Gauteng, South Africa
+Brief History
+eKofini@Proper is a locally owned coffee shop that serves the Ekangala community. It specialises with freshly brewed coffee, breakfast, lunch, snack, and beverage in a much comfortable and welcoming environment. The coffee shop has become mostly likely place for meetings, families time, student, professionals and visitors that are looking for a good quality food and outstanding customer service
+Mission and Vision
+To provide high-quality coffee, delicious meals and outstanding customer service while creating a warm welcoming environment where people could enjoy, relax and feel at home with the memorable experiences. The vision is to become the leading and most known neighbourhood coffee shop in Ekangala by delivering exceptional customer experience, supporting the local community, and embracing digital technology to improve customer convenience
+Target Audience
+Students
+Working professionals
+Families
+Coffee lovers
+Local Residents
+2. Website Goals and objectives
+goals 
+the goal is to make eKofini to be recognised and make it easier for customers to access information and service by proposing a good online website 
+
+Objectives
+Increase brand awareness, promoting products and special offers that allows customers to be able to view the menu online, create online ordering for collection and also engage with customers through social media by creating Q& A and do specials / sales (monthly or weekly sales)
+Key Performance Indicators (KPIs)
+Higher customers satisfaction rating 
+Growth in social media followers 
+20% increase in customer enquiries through the website
+26%increase in online orders
+32% increase in website traffic less than 6 months 
+Current Website Analysis (if applicable)
+Currently, eKofini@Proper has a limited online presence and relies mainly on social media platforms to communication with customers 
+Strengths 
+Active social media presence 
+Easy to find location 
+Good reputation and reviews
+Weaknesses
+No professional website 
+Customers cannot order online
+No online booking or reservation system
+Menu is not always accessible 
+4. Proposed Website Features and Functionality
+Home Page
+Welcome message
+Featured products 
+Promotions
+Nice photos
+About Us 
+Company history
+Mission and vision
+Company history
+Menu Page
+Coffee menu
+Food menu
+Prices
+Specials
+Online Ordering
+Customers can place takeaway orders
+Secure online payment options 
+Gallery
+Photos of food, drinks, and the café 
+Contact page
+Contact form
+Telephone numbers
+Emails address 
+Google maps location
+
+Customer reviews 
+Testimonials 
+Google reviews integration
+Social media integration 
+Facebook
+Instagram
+WhatsApp
+5.Design and User Experience 
+The website should be attractive, modern, and easy to use 
+Colour Scheme
+Coffee Brown-represents coffee and warmth.
+Cream– creates a welcoming and comfortable atmosphere.
+White- improves readability and provides a clean appearance.
+Dark Green– adds freshness and complements the café's branding.
+Typography
+Headings: Poppins
+Body Text: Open Sans 
+Layout 
+Clean, modern and easy
+Easy to read content
+High-quality images
+Clear call to action buttons
+Navigation
+The navigation menu should be positioned at the top of every page; it will be following should be included
+Home
+About Us
+Menu
+Gallery
+Online ordering
+Contact
+Overall design astatic and branding 
+The overall design aesthetic will communicate comfort, quality, and community. High-quality photographs of coffee, meals, desserts, and the café interior will help create an inviting first impression. Rounded buttons, subtle icons, and consistent spacing will contribute to a modern yet friendly appearance.
+Branding elements will include:
+•	The eKofini@Proper logo displayed on every page. 
+•	A consistent colour palette throughout the website. 
+•	Consistent typography using Poppins for headings and Open Sans for body text. 
+•	Professional images that reflect the café's products and atmosphere. 
+•	A welcoming tone of voice in all website content. 
+The design will strengthen brand recognition and encourage visitors to become loyal customers.
+ Low fidelity wireframe1
+•	
+•	 
+Index page 
+Contact usim 
+Image and contact form 
+6. Technical Requirements:
+
+
+6.Technical Requirements
+Dominate name
+www.ekofini.co.za
+Web Hosting requirements 
+The hosting service should provide:
+•	Minimum 99.9% uptime to keep the website accessible. 
+•	SSL certificate (HTTPS) to secure customer information. 
+•	At least 10 GB SSD storage for website files and images. 
+•	Daily automatic backups to prevent data loss. 
+•	Fast loading speeds for a better user experience. 
+•	Email hosting (e.g., info@ekofini.co.za). 
+•	Technical support available 24/7.
+
+Programming languages
+HTML5
+ will be used to create the structure of the website, including pages, headings, images, menus, forms, and content.
+CSS3
+CSS3 will be used to control the appearance of the website, including colours, fonts, spacing, layouts, and responsive design for different screen sizes.
+JavaScript
+JavaScript will provide interactive features such as:
+•	Image sliders 
+•	Interactive navigation menus 
+•	Online order forms 
+•	Form validation 
+•	Dynamic content updates
+7. Timeline and Milestones
+Week	Activity
+Week 1	  Plan requirements 
+Week 2	Design website layout 
+Week 3	Develop the website
+Week 4	 upload website content
+Week 5	Testing and fixing errors
+Week 6	Launch the website
+•	
+8. Budget:
+Item	Estimated cost (ZAR)
+Domain registration	R250
+Web hosting 	R1,500
+Website design	R7,000
+Website development	R20,000
+Online Ordering System	R3,000
+Content creation	R3,000
+Testing and maintenance	R2,500
+Launch and Training	R1,500
+TOTAL ESTIMATE 	R38,750
+
+
+
+ 9. References:
+ exoyswepu.blob.core.windows.net
+https://storage.googleapis.com/diwarlngpndame/coffee-shop-logo-images.html
+https://animalia-life.club/qa/pictures/coffee-shop-interior
+https://www.bing.com/search?q=unsplash.com&form=IPRV10
+https://fnb.coffee/blog/coffee-cherries-heart-of-quality-coffee-production/
+
+
+THE SECOND ORGANISATION
+Organisation overview
+Organisation Name: Sizanani Children's Home
+Organisation Type: Non-Profit Organisation (NPO)
+Location: Sizanani Village, Bronkhorstspruit, Gauteng, South Africa.
+Brief History
+Sizanani Children’s Home started in 1993 by Father Charles Kuppelwieser. It helps children and young adults with disabilities by giving them care, education support, therapy, and programmes to grow and develop.
+Mission
+To develop, empower and care for people with disabilities in order to improve their quality of life through collaboration with beneficiaries, families, employees and surrounding communities. 
+Vision
+To be a centre of excellence that provides comprehensive care in South Africa for development and empowerment for people with intellectual and physical disabilities in Southern Africa while embodying Catholic values. 
+Location: Sizanani Village, Bronkhorstspruit, Gauteng, South Africa.
+Brief History
+Sizanani Children’s Home started in 1993 by Father Charles Kuppelwieser. It helps children and young adults with disabilities by giving them care, education support, therapy, and programmes to grow and develop.
+2. Website Goals and objectives 
+Objectives 
+
+Make people awareness of Sizanani Children's Home and its mission. 
+Encourage online donations  
+Recruit volunteers for community. 
+ Share information about the organisation's services and facilities. 
+ Improve communication with parents, donors, sponsors, and community members. 
+ Share success stories, events, and organisational news. 
+ Allow users to contact the organisation easily through online form
+
+ Key performance indicator 
+KPI	Target
+Website traffic	Increase visitors by 40% within 6 months 
+Online donation	Increase donations by 25% within the first year
+Volunteer registration 	At least 20 new volunteer applications every quarter
+Newsletter subscriptions	300 new subscribers within 6 months 
+Contact form enquiries	Increase enquiries by 30%
+Average session duration	More than 2 minutes per visitor
+Mobile responsiveness	Website functions correctly on 100% of major mobile device
+
+
+3. Current Website analysis
+Strengths
+ Provides background information about the organisation. 
+ Clearly explains its mission and services. 
+Includes contact details. 
+Offers donation information. 
+ Share photographs of the organisation and its activities. 
+Shares information about projects and programmes.
+Weakness
+The homepage looks outdated compared to modern charity websites. 
+ Navigation is not simple
+The donation button is hard to find
+There are limited interactive features. 
+ Too much text, not engaging
+ Needs better design and mobile experience 
+
+Areas for improvement
+Create a modern homepage with clear buttons
+ Add a “Donate Now” button on every page. 
+ Improve navigation with a simplified menu. 
+ Add an online volunteer application form. 
+Include an events calendar. 
+ Display recent news and success stories. 
+ Improve accessibility for users with disabilities. 
+Optimise the website for smartphones and tablets. 
+Better SEO
+4. proposed website features and functionality 
+Home 
+Hero image, intro, Donate button, latest news, events, success stories.
+Organisation introduction 
+Donate Now button 
+ Latest news 
+Upcoming events 
+Success stories
+About Us
+History 
+ Mission 
+Vision 
+Management team 
+ Annual reports
+Our services
+ Residential care 
+ Education support 
+Therapy services 
+Skills development 
+Health care 
+Community outreach
+Donations 
+1.	Secure online donations 
+2.	Monthly donation options 
+3.	Donation confirmation email 
+4.	Multiple payment methods 
+Volunteer
+Volunteer application form 
+Volunteer opportunities 
+ FAQ section 
+Downloadable volunteer handbook
+News & events
+ Fundraising events 
+ Community projects 
+ Photo gallery 
+News articles
+Gallery
+ Images 
+Videos 
+Success stories
+Contact us
+Contact form 
+Google Maps 
+ Email address 
+ Telephone number 
+Social media links
+5. Design and user experience 
+Colour Scheme
+ Blue – Trust and reliability 
+Green – Growth and hope 
+ Orange – Warmth and care 
+White – Simplicity and cleanliness
+Typography
+Headings
+Font: Poppins Bold
+Used for page titles and section headings.
+Body Text
+Font: Open Sans Regular
+
+Layout and design
+ Hero image 
+Mission statement 
+ Donate button 
+ Featured programmes 
+ Success stories 
+Upcoming events 
+Footer
+
+ User experience consideration
+Simple navigation menu 
+ Responsive design 
+Fast loading pages 
+ Accessible content 
+ High colour contrast 
+ Large buttons 
+Easy-to-read text 
+Search function 
+Breadcrumb navigation
+
+
+ Low- fidelity wireframe
+Homepage
+
++-------------------------------------------------------------+
+| LOGO                    Home About Donate Volunteer Contact |
++-------------------------------------------------------------+
+
+|                    HERO IMAGE                               |
+|      Helping Every Child Reach Their Potential              |
+|         [ Donate Now ]   [ Become a Volunteer ]            |
+
++----------------------+----------------------+
+| About Sizanani       | Latest News          |
+| Brief Introduction   | Recent Updates       |
++----------------------+----------------------+
+
++-------------------------------------------------------------+
+|              OUR PROGRAMMES                                 |
+| Education | Therapy | Residential Care | Outreach          |
++-------------------------------------------------------------+
+
++----------------------+----------------------+
+| Success Stories      | Upcoming Events      |
++----------------------+----------------------+
+
++-------------------------------------------------------------+
+| Contact Details | Google Map | social media               |
++-------------------------------------------------------------+
+
+| Footer                                                  |
++-------------------------------------------------------------+
+
+6. Technical Requirements
+Domain name
+www.sizanani.org.za
+Web Hosting 
+Cloud hosting 
+ SSL certificate 
+Daily backups 
+99.9% uptime 
+Email hosting 
+20 GB storage
+Programming Language
+HTML5 
+CSS3 
+JavaScript
+Framework
+Bootstrap 5 
+Font Awesome
+7. Timeline and Milestones
+Week 	Activity
+Week 1	Plan requirements 
+Week 2	Website design layout
+Week 3	Front-end development
+Week 4	Back-end development
+Week 5	Content creation and testing
+Week 6	Final testing and deployment
+
+8. Budget
+Item	Estimated cost (ZAR)
+Domain registration	R250
+Web hosting 	R1,500
+Website design	R7,000
+Website development	R10,000
+SSL certificate	R500
+Photograph	R2,000
+Content creation	R3,000
+Testing and maintenance	R2,500
+Total Estimated Budget	R26,750
+
+Referencing
+ Mozilla Developer Network (2024) HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML (Accessed: 4 August 2026).
+Mozilla Developer Network (2024) CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 4 August 2026).
+Mozilla Developer Network (2024) JavaScript Guide. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript (Accessed: 4 August 2026).
+Sizanani Children's Home. (n.d.) Home. Available at: https://www.sizanani.org (Accessed: 4 August 2026).
+Bootstrap. (2025) Bootstrap Documentation. Available at: https://getbootstrap.com (Accessed: 4 August 2026).
+
+
+
+
+
+
+ 
+
+
