@@ -1,0 +1,135 @@
+1.  Organisation Overview:
+•	Name: [eKofini@Proper Coffee Shop]
+•	Provide a brief history of the organisation.
+•	eKofini@Proper is a locally owned coffee shop serving the Ekangala community with fresh coffee, meals, and snacks. It offers a warm, welcoming space for meetings, family time, students, professionals, and visitors. Known for quality food and excellent customer service, it has become a favourite community hub.
+•	Mission and vision statements
+•	 eKofini@Proper aims to serve high quality coffee and delicious meals with excellent customer service in a warm, welcoming space. It strives to create memorable experiences where people can relax, connect, and feel at home. The vision is to become Ekangala’s leading neighbourhood coffee shop by supporting the community and using digital technology to enhance customer convenience
+Target audience.
+ Students
+Working professionals
+Families
+Coffee lovers
+Local Residents
+2. Website Goals and Objectives goals 
+the goal is to make eKofini to be recognised and make it easier for customers to access information and service by proposing a good online website 
+
+Objectives
+Increase brand awareness, promoting products and special offers that allows customers to be able to view the menu online, create online ordering for collection and also engage with customers through social media by creating Q& A and do specials / sales (monthly or weekly sales)
+Key Performance Indicators (KPIs)
+Higher customers satisfaction rating 
+Growth in social media followers 
+20% increase in customer enquiries through the website
+26%increase in online orders
+32% increase in website traffic less than 6 months 
+
+:
+3. Current Website Analysis (if applicable): 
+Currently, eKofini@Proper has a limited online presence and relies mainly on social media platforms to communication with customers 
+Strengths 
+Active social media presence 
+Easy to find location 
+Good reputation and reviews
+Weaknesses
+No professional website 
+Customers cannot order online
+No online booking or reservation system
+Menu is not always accessible 
+
+4. Proposed Website Features and Functionality:
+ Home Page
+Welcome message
+Featured products 
+Promotions
+Nice photos
+About Us 
+Company history
+Mission and vision
+Company history
+Menu Page
+Coffee menu
+Food menu
+Prices
+Specials
+Online Ordering
+Customers can place takeaway orders
+Secure online payment options 
+Gallery
+Photos of food, drinks, and the café 
+Contact page
+Contact form
+Telephone numbers
+Emails address 
+Google map’s location
+
+Customer reviews 
+Testimonials 
+Google reviews integration
+Social media integration 
+Facebook
+Instagram
+WhatsApp
+
+5. Design and User Experience:
+•	Discuss the overall design aesthetic and branding, highlighting the following: 
+•	Colour Scheme: [Coffee Brown, Cream, White and Dark Green] 
+•	Typography: [Headings: Poppin] 
+•	Layout and Design: [Clean, Modern, high-quality images, clear call to action and easy to read content] 
+•	Develop low-fidelity wireframes to visualise the website's layout and information. 
+•	
+•	Home/Index
+•	-About Us
+•	Service
+•	-Contact us
+
+•	
+•	 
+Index page 
+Contact usim 
+Image and contact form 
+6. Technical Requirements:
+Identify hosting and domain name requirements and programming languages and frameworks (e.g., HTML, CSS, JavaScript, GitHub). Programming languages
+HTML5
+ will be used to create the structure of the website, including pages, headings, images, menus, forms, and content.
+CSS3
+CSS3 will be used to control the appearance of the website, including colours, fonts, spacing, layouts, and responsive design for different screen sizes.
+JavaScript
+JavaScript will provide interactive features such as:
+•	Image sliders 
+•	Interactive navigation menus 
+•	Online order forms 
+•	Form validation 
+•	Dynamic content updates
+•	
+•	
+7. Timeline and Milestones:
+•	Create a realistic project timeline with key milestones that follow the timeline during the subject's submission dates. 
+Week	Activity
+Week 1	  Plan requirements 
+Week 2	Design website layout 
+Week 3	Develop the website
+Week 4	 upload website content
+Week 5	Testing and fixing errors
+Week 6	Launch the website
+Week 7	Post launch support
+•	
+8. Budget:
+Item	Estimated cost (ZAR)
+Domain registration	R250
+Web hosting 	R1,500
+Website design	R7,000
+Website development	R20,000
+Online Ordering System	R3,000
+Content creation	R3,000
+Testing and maintenance	R2,500
+Launch and Training	R1,500
+TOTAL ESTIMATE 	R38,750
+
+
+
+9. References:
+ exoyswepu.blob.core.windows.net
+https://storage.googleapis.com/diwarlngpndame/coffee-shop-logo-images.html
+https://animalia-life.club/qa/pictures/coffee-shop-interior
+https://www.bing.com/search?q=unsplash.com&form=IPRV10
+https://fnb.coffee/blog/coffee-cherries-heart-of-quality-coffee-production/
+
